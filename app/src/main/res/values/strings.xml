@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="source">Source</string>
+    <string name="_5_hour_ago">5 hour ago</string>
+</resources>
